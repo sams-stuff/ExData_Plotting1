@@ -32,7 +32,7 @@ firstplot <- function() {
           main = "Global Active Power", # label the main title of the plot
           cex.main = 0.9, # adjust the main title font size as desired
           xlab = "Global Active Power (kilowatts)", # label the x-axis of the plot
-          cex.lab = 0.7, # adjust the x- and y- label font size as desired
+          cex.lab = 0.7, # adjust the x- and y-label font size as desired
           freq = TRUE, # plot the counts of global active power
           axes = FALSE # generate the axes ticks separately below
           )
